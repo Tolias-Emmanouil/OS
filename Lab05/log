@@ -1,0 +1,19 @@
+/home/ettolias/Lab05
+example1.c
+example2.c
+example3.c
+example4.c
+example5.c
+example6.c
+log
+-bash: cd: /path/to/directory: No such file or directory
+stat: cannot stat 'filename': No such file or directory
+  File: filename
+  Size: 0         	Blocks: 0          IO Block: 4096   regular empty file
+Device: 811h/2065d	Inode: 307514      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1254/ettolias)   Gid: ( 1256/ettolias)
+Access: 2024-12-19 13:08:04.388491056 +0200
+Modify: 2024-12-19 13:08:04.388491056 +0200
+Change: 2024-12-19 13:08:04.388491056 +0200
+ Birth: -
+cp: cannot stat 'source.txt': No such file or directory
